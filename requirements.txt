@@ -4,3 +4,5 @@ nltk
 joblib
 streamlit
 newspaper3k
+lxml
+lxml_html_clean
